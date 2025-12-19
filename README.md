@@ -1,2 +1,3 @@
 # project-demo
-this is my first project repo
+This is my first project repostory.
+Author-Sanchita
